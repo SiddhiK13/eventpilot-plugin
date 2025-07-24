@@ -1,0 +1,1 @@
+<div class='event-list'>Event Listing Template</div>
