@@ -91,14 +91,6 @@ It will download all registered user data as a `.csv` file.
 
 ---
 
-## 🖼️ Screenshots
-
-| Event Listing Page | Registration Form |
-|--------------------|-------------------|
-| ![Event List](screenshots/event-list.png) | ![Form](screenshots/event-register.png) |
-
----
-
 ## ✅ Purpose
 
 This project was created for showcasing real-world WordPress plugin development during job/internship applications (e.g., **rtCamp**) that require:
